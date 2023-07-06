@@ -1,0 +1,35 @@
+url per microservizio file: microservice_cloud.py
+
+I diversi sensori sono disponibili all'iindirizzo: 
+	127.0.0.x:808x/hystory/sensors?s=0&l=1&dr = 1 &cks = 0-> ritorna solo se il microservizio é funzionante (OK) oppure no (ERRORE TROVATO)
+	
+
+	# PUT
+	127.0.0.x:808x/history/new?cks=0
+		json body info={
+			"timestamp": "22 giugno 2022",
+			"values": [
+				{
+					"sensorID": 1,
+					"value": {
+						"t": 12,
+						"h": 50
+					}
+				},
+				{
+					"sensorID": 2,
+					"value": {
+						"t": 22,
+						"h": 50,
+						"d": 20
+					}
+				},
+				{
+					"sensorID": 3,
+					"value": {
+						"t": 42
+					}
+				}
+			]
+		}
+	- non ci sono altri microservizi disponibili

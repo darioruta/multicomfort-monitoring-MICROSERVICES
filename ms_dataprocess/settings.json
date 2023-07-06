@@ -1,0 +1,12 @@
+{
+	"name": "data_process",
+	"localhost": "127.0.0.1",
+	"port": 8088,
+	"main_ip": "127.0.0.1",
+	"main_port": 8081,
+	"influxDB_token": "udWmqLWgGiyk23GWaZ-e5kzsCtmTEhBFUhCBITJ218c6Xoo4-28OoJLpLmktZAbhMtMu3yl6XXKjzFEtnuEs-w==",
+	"influxDB_org": "Polito",
+	"influxDB_url": "https://olgyay.polito.it:8090"
+
+
+}

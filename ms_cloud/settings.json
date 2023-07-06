@@ -1,0 +1,17 @@
+{
+    "name": "cloud",
+    "localhost": "127.0.0.1",
+    "port": 8086,
+
+    "main_ip": "127.0.0.1",
+    "main_port": 8081,
+
+    "influxDB_token": "udWmqLWgGiyk23GWaZ-e5kzsCtmTEhBFUhCBITJ218c6Xoo4-28OoJLpLmktZAbhMtMu3yl6XXKjzFEtnuEs-w==",
+    "influxDB_org": "Polito",
+    "influxDB_url": "https://olgyay.polito.it:8090",
+
+    "broker_address": "test.mosquitto.org",
+    "broker_port": 1883,
+    "topic_subscribe": "testing_nano_ip_project_79139719"
+
+}
