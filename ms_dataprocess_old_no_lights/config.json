@@ -1,0 +1,21 @@
+{
+  "threshold" : {
+    "co2" : [0, 600, 1000, 1700, 2000, 3500],
+    "mrt" : 0,
+    "pm10" : [0, 25, 40, 50],
+    "humidity" : [0, 20, 40, 60, 80, 100],
+    "temperature" : 0,
+    "acoustic" : [0, 30,  65, 85, 95, 1000],
+    "wind_speed" : 0,
+    "light" : [0, 300, 500, 1800]
+  },
+  "frequency" : {
+  "f_process" : 60,
+  "f_raw" : 5
+ },
+  "params" : {
+    "clothing" : 0.7,
+    "metabolism" : 1.2,
+    "ext_tmp" : 20
+  }
+}

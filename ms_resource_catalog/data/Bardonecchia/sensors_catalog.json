@@ -1,0 +1,68 @@
+{
+	"kits_catalogID": 1,
+	"kits": [
+		{
+			"kitID": 1,
+			"kit_MAC": "234:111:1:111",
+			"info_client": {
+				"kit_name": "Aula Magna",
+				"kit_model": "ASTON MARTIN",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 2,
+			"kit_MAC": "2:22:2:222",
+			"info_client": {
+				"kit_name": "Davide2",
+				"kit_model": "ASTON MARTIN_2",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 3,
+			"kit_MAC": "2:22:2:333",
+			"info_client": {
+				"kit_name": "Davide3",
+				"kit_model": "ASTON MARTIN_3",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 4,
+			"kit_MAC": "2:22:2:444",
+			"info_client": {
+				"kit_name": "Davide4",
+				"kit_model": "ASTON MARTIN_4",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 5,
+			"kit_MAC": "",
+			"info_client": {
+				"kit_name": "",
+				"kit_model": "",
+				"date_assembly": ""
+			}
+		},
+		{
+			"kitID": 6,
+			"kit_MAC": "",
+			"info_client": {
+				"kit_name": "",
+				"kit_model": "",
+				"date_assembly": ""
+			}
+		},
+		{
+			"kitID": 7,
+			"kit_MAC": "2:22:2:777",
+			"info_client": {
+				"kit_name": "Davide7",
+				"kit_model": "ASTON MARTIN_7",
+				"date_assembly": "12/12/2022"
+			}
+		}
+	]
+}

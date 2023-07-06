@@ -1,0 +1,23 @@
+{
+	"kits_catalogID": 1,
+	"kits": [
+		{
+			"kitID": 5,
+			"kit_MAC":"",
+			"info_client": {
+				"kit_name": "Kit_5",
+				"kit_model": "",
+				"date_assembly": ""
+			}
+		},
+		{
+			"kitID": 6,
+			"kit_MAC": "",
+			"info_client": {
+				"kit_name": "Kit_6",
+				"kit_model": "",
+				"date_assembly": ""
+			}
+		}
+	]
+}

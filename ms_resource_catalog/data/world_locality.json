@@ -1,0 +1,25 @@
+{
+	"token_telegram_bot":"5243645862:AAG3oans-0oylmL_5SEL20fVikgJTHqc6Ok",
+	"localities": [
+		{
+			"localityID": 1,
+			"localityName": "Bardonecchia",
+			"path": "./ms_resource_catalog/data/Bardonecchia"
+		},
+		{
+			"localityID": 2,
+			"localityName": "Pila",
+			"path": "./ms_resource_catalog/data/Pila"
+		},
+		{
+			"localityID": 3,
+			"localityName": "Politecnico Torino",
+			"path": "./ms_resource_catalog/data/Politecnico Torino"
+		},
+		{
+			"localityID": 4,
+			"localityName": "Torre Pellice",
+			"path": "./ms_resource_catalog/data/TorrePellice"
+		}
+	]
+}

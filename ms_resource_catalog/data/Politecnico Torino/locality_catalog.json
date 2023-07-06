@@ -1,0 +1,59 @@
+{
+	"localityID": 3,
+	"info": {
+		"localityName": "Politecnico Torino",
+		"mslm": 450
+	},
+	"plessi": [
+		{
+			"plessoID": 1,
+			"plessoName" : "PoliTo - Sede Centrale",
+			"aule": [
+				{
+					"aulaID": 1,
+					"aulaName" : "Aula Magna",
+					"kits": [
+						1
+					],
+					"cannons": []
+				},
+				{
+					"aulaID": 2,
+					"aulaName": "Aula 2",
+					"kits": [2],
+					"cannons": []
+				},
+				{
+					"aulaID": 3,
+					"aulaName": "LADISPE",
+					"kits": [
+						3
+					],
+					"cannons": []
+				},
+				{
+					"aulaID": 4,
+					"aulaName": "Fisico - 1",
+					"kits": [
+						-1
+					],
+					"cannons": []
+				}
+			]
+		},
+		{
+			"plessoID": 2,
+			"plessoName": "PoliTo - Valentino",
+			"aule": [
+				{
+					"aulaID": 1,
+					"aulaName": "Castello",
+					"kits": [
+						4
+					],
+					"cannons": []
+				}
+			]
+		}
+	]
+}

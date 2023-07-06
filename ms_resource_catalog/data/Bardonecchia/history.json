@@ -1,0 +1,108 @@
+{
+	"history": [
+		{
+			"timestamp": "20 giugno 2022",
+			"values": [
+				{
+					"sensorID": 1,
+					"value": {
+						"t": 10,
+						"h": 50
+					}
+				},
+				{
+					"sensorID": 2,
+					"value": {
+						"t": 20,
+						"h": 50,
+						"d": 20
+					}
+				},
+				{
+					"sensorID": 3,
+					"value": {
+						"t": 40
+					}
+				}
+			]
+		},
+		{
+			"timestamp": "21 giugno 2022",
+			"values": [
+				{
+					"sensorID": 1,
+					"value": {
+						"t": 11,
+						"h": 50
+					}
+				},
+				{
+					"sensorID": 2,
+					"value": {
+						"t": 21,
+						"h": 50,
+						"d": 20
+					}
+				},
+				{
+					"sensorID": 3,
+					"value": {
+						"t": 41
+					}
+				}
+			]
+		},
+		{
+			"timestamp": "22 giugno 2022",
+			"values": [
+				{
+					"sensorID": 1,
+					"value": {
+						"t": 12,
+						"h": 50
+					}
+				},
+				{
+					"sensorID": 2,
+					"value": {
+						"t": 22,
+						"h": 50,
+						"d": 20
+					}
+				},
+				{
+					"sensorID": 3,
+					"value": {
+						"t": 42
+					}
+				}
+			]
+		},
+		{
+			"timestamp": "23 giugno 2022",
+			"values": [
+				{
+					"sensorID": 1,
+					"value": {
+						"t": 13,
+						"h": 50
+					}
+				},
+				{
+					"sensorID": 2,
+					"value": {
+						"t": 23,
+						"h": 50,
+						"d": 20
+					}
+				},
+				{
+					"sensorID": 3,
+					"value": {
+						"t": 43
+					}
+				}
+			]
+		}
+	]
+}

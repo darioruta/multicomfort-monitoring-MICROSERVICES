@@ -1,0 +1,10 @@
+{
+    "name": "FlashDataprocess",
+    "localhost": "127.0.0.10",
+    "port": 8091,
+
+    "main_ip": "127.0.0.1",
+    "main_port": 8081
+    
+    
+}

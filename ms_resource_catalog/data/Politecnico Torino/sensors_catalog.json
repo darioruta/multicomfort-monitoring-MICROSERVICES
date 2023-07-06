@@ -1,0 +1,50 @@
+{
+	"kits_catalogID": 1,
+	"kits": [
+		{
+			"kitID": 1,
+			"kit_MAC": "234:111:1:111",
+			"info_client": {
+				"kit_name": "Kit_1",
+				"kit_model": "ASTON MARTIN",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 2,
+			"kit_MAC": "234:111:1:111",
+			"info_client": {
+				"kit_name": "Kit_2",
+				"kit_model": "ASTON MARTIN",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 3,
+			"kit_MAC": "234:111:1:111",
+			"info_client": {
+				"kit_name": "Kit_3",
+				"kit_model": "ASTON MARTIN",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": 4,
+			"kit_MAC": "234:111:1:111",
+			"info_client": {
+				"kit_name": "Kit_4",
+				"kit_model": "ASTON MARTIN",
+				"date_assembly": "12/12/2022"
+			}
+		},
+		{
+			"kitID": -1,
+			"kit_MAC": "234:111:1:111",
+			"info_client": {
+				"kit_name": "Kit Fisico 1",
+				"kit_model": "ASTON MARTIN",
+				"date_assembly": "12/12/2022"
+			}
+		}
+	]
+}

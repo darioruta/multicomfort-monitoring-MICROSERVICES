@@ -1,0 +1,46 @@
+
+
+# -> adesso tutti gli indirizzi sono sotto l'indirizzo della pista di riferimento
+ -> http://127.0.0.1:8080/<localityID>/....
+ 
+
+- GET ----------------------------------------------
+        vederli direttamente digitando un uri che non esiste
+
+
+- PUT -------------------------------------------------
+        -> ricordarsi di impostare HEADER come application/json
+            
+            /3/kit/setInfo?cks=1
+            con body: -> cambiando qualche inpostazione 
+           {
+                "kitID": 1,
+                "kit_MAC": "234:111:1:111",
+                "info_client": {
+                    "kit_name": "Davide1",
+                    "kit_model": "ASTON MARTIN",
+                    "date_assembly": "12/12/2022"
+                }
+            }
+
+- DELETE ---------------------------------------------
+
+- POST -----------------------------------------------
+        vederli direttamente digitando con uri sbagliato,
+        di default questi non hanno bisogno di body 
+
+        -> ricordarsi di mettere sempre un body json vuoto {} altrimenti non funziona
+
+        http://127.0.0.2:8082/3/kit/moveTo?id=1&id2=1&id3=1&cks=1    body: {}
+
+        http://127.0.0.2:8082/3/kits/new?cks=1    body: {} se si vuole aggiungere un kit senza nessuna informazione (inutile)
+
+        http://127.0.0.2:8082/3/kits/new?cks=1    body: {                                           
+                                                            "kit_MAC": "2:22:2:777",
+                                                            "info_client": {
+                                                                "kit_name": "Davide7",
+                                                                "kit_model": "ASTON MARTIN_7",
+                                                                "date_assembly": "12/12/2022"
+                                                            }
+                                                        }    -> per aggiungere in automatico tutte le informazioni relative al nuovo kit
+                                                            il kitID non é necessario perché lo aggiunge in automatico il resource catalog

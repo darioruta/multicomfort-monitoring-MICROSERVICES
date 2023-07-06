@@ -1,0 +1,32 @@
+{
+	"localityID": 4,
+	"info": {
+		"localityName": "Torre Pellice",
+		"mslm": 0
+	},
+	"plessi": [
+		{
+		"plessoID" : 1,
+		"plessoName": "Liceo Pareggiato",
+		"aule":[
+			{
+				"aulaID": 1,
+				"aulaName": "Presidenza",
+				"kits": [
+					5
+				],
+				"cannons": []
+			},
+			{
+				"aulaID": 2,
+				"aulaName": "Aula Magna",
+				"kits": [
+					6
+				],
+				"cannons": []
+			}
+		]
+		}
+		
+	]
+}
