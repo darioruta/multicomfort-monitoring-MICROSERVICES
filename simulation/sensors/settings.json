@@ -1,0 +1,1083 @@
+{
+    "name": "SensorsController",
+    "localhost": "127.0.0.8",
+    "port": 8088,
+
+    "main_ip": "127.0.0.1",
+    "main_port": 8081,
+    
+    "sensors": [
+        {
+            "product_code": "Fisico kit -1",
+            "localityID": 3,
+            "sensorID": -1,
+            "info": {
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                }
+            }
+        },
+        {
+            "product_code": "SN111_a",
+            "localityID": 3,
+            "sensorID" : 1,
+            "info":{
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "i": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 2,
+                    "maxIncrement": 5,
+                    "variance": 5
+                },
+                "j": {
+                    "value": 0,
+                    "max": 0,
+                    "min": 0,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "k": {
+                    "value": 1,
+                    "max": 1,
+                    "min": 1,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "l": {
+                    "value": 2,
+                    "max": 2,
+                    "min": 2,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "m": {
+                    "value": 3,
+                    "max": 3,
+                    "min": 3,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "n": {
+                    "value": 4,
+                    "max": 7,
+                    "min": 0,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "o": {
+                    "value": 0,
+                    "max": 3,
+                    "min": -3,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "p": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 0,
+                    "maxIncrement": 10,
+                    "variance": 10
+                },
+                "q": {
+                    "value": 60,
+                    "max": 100,
+                    "min": 30,
+                    "maxIncrement": 10,
+                    "variance": 20
+                },
+                "r": {
+                    "value": 300,
+                    "max": 310,
+                    "min": 290,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "s": {
+                    "value": 320,
+                    "max": 330,
+                    "min": 310,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "t": {
+                    "value": 340,
+                    "max": 350,
+                    "min": 330,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "u": {
+                    "value": 360,
+                    "max": 370,
+                    "min": 350,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "v": {
+                    "value": 380,
+                    "max": 390,
+                    "min": 370,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "x": {
+                    "value": 400,
+                    "max": 410,
+                    "min": 390,
+                    "maxIncrement": 3,
+                    "variance": 1
+                }
+            }
+        },
+        {
+            "product_code": "SN111_a",
+            "localityID": 3,
+            "sensorID": 2,
+            "info": {
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "i": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 2,
+                    "maxIncrement": 5,
+                    "variance": 5
+                },
+                "j": {
+                    "value": 0,
+                    "max": 0,
+                    "min": 0,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "k": {
+                    "value": 1,
+                    "max": 1,
+                    "min": 1,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "l": {
+                    "value": 2,
+                    "max": 2,
+                    "min": 2,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "m": {
+                    "value": 3,
+                    "max": 3,
+                    "min": 3,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "n": {
+                    "value": 4,
+                    "max": 7,
+                    "min": 0,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "o": {
+                    "value": 0,
+                    "max": 3,
+                    "min": -3,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "p": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 0,
+                    "maxIncrement": 10,
+                    "variance": 10
+                },
+                "q": {
+                    "value": 60,
+                    "max": 100,
+                    "min": 30,
+                    "maxIncrement": 10,
+                    "variance": 20
+                },
+                "r": {
+                    "value": 300,
+                    "max": 310,
+                    "min": 290,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "s": {
+                    "value": 320,
+                    "max": 330,
+                    "min": 310,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "t": {
+                    "value": 340,
+                    "max": 350,
+                    "min": 330,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "u": {
+                    "value": 360,
+                    "max": 370,
+                    "min": 350,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "v": {
+                    "value": 380,
+                    "max": 390,
+                    "min": 370,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "x": {
+                    "value": 400,
+                    "max": 410,
+                    "min": 390,
+                    "maxIncrement": 3,
+                    "variance": 1
+                }
+            }
+        },
+        {
+            "product_code": "LADISPE",
+            "localityID": 3,
+            "sensorID": 3,
+            "info": {
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "i": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 2,
+                    "maxIncrement": 5,
+                    "variance": 5
+                },
+                "j": {
+                    "value": 0,
+                    "max": 0,
+                    "min": 0,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "k": {
+                    "value": 1,
+                    "max": 1,
+                    "min": 1,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "l": {
+                    "value": 2,
+                    "max": 2,
+                    "min": 2,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "m": {
+                    "value": 3,
+                    "max": 3,
+                    "min": 3,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "n": {
+                    "value": 4,
+                    "max": 7,
+                    "min": 0,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "o": {
+                    "value": 0,
+                    "max": 3,
+                    "min": -3,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "p": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 0,
+                    "maxIncrement": 10,
+                    "variance": 10
+                },
+                "q": {
+                    "value": 60,
+                    "max": 100,
+                    "min": 30,
+                    "maxIncrement": 10,
+                    "variance": 20
+                },
+                "r": {
+                    "value": 300,
+                    "max": 310,
+                    "min": 290,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "s": {
+                    "value": 320,
+                    "max": 330,
+                    "min": 310,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "t": {
+                    "value": 340,
+                    "max": 350,
+                    "min": 330,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "u": {
+                    "value": 360,
+                    "max": 370,
+                    "min": 350,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "v": {
+                    "value": 380,
+                    "max": 390,
+                    "min": 370,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "x": {
+                    "value": 400,
+                    "max": 410,
+                    "min": 390,
+                    "maxIncrement": 3,
+                    "variance": 1
+                }
+            }
+        },
+        {
+            "product_code": "Valentino - Castello",
+            "localityID": 3,
+            "sensorID": 4,
+            "info": {
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "i": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 2,
+                    "maxIncrement": 5,
+                    "variance": 5
+                },
+                "j": {
+                    "value": 0,
+                    "max": 0,
+                    "min": 0,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "k": {
+                    "value": 1,
+                    "max": 1,
+                    "min": 1,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "l": {
+                    "value": 2,
+                    "max": 2,
+                    "min": 2,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "m": {
+                    "value": 3,
+                    "max": 3,
+                    "min": 3,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "n": {
+                    "value": 4,
+                    "max": 7,
+                    "min": 0,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "o": {
+                    "value": 0,
+                    "max": 3,
+                    "min": -3,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "p": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 0,
+                    "maxIncrement": 10,
+                    "variance": 10
+                },
+                "q": {
+                    "value": 60,
+                    "max": 100,
+                    "min": 30,
+                    "maxIncrement": 10,
+                    "variance": 20
+                },
+                "r": {
+                    "value": 300,
+                    "max": 310,
+                    "min": 290,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "s": {
+                    "value": 320,
+                    "max": 330,
+                    "min": 310,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "t": {
+                    "value": 340,
+                    "max": 350,
+                    "min": 330,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "u": {
+                    "value": 360,
+                    "max": 370,
+                    "min": 350,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "v": {
+                    "value": 380,
+                    "max": 390,
+                    "min": 370,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "x": {
+                    "value": 400,
+                    "max": 410,
+                    "min": 390,
+                    "maxIncrement": 3,
+                    "variance": 1
+                }
+            }
+        },
+        {
+            "product_code": "Torre Pellice - kit 5",
+            "localityID": 3,
+            "sensorID": 5,
+            "info": {
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "i": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 2,
+                    "maxIncrement": 5,
+                    "variance": 5
+                },
+                "j": {
+                    "value": 0,
+                    "max": 0,
+                    "min": 0,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "k": {
+                    "value": 1,
+                    "max": 1,
+                    "min": 1,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "l": {
+                    "value": 2,
+                    "max": 2,
+                    "min": 2,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "m": {
+                    "value": 3,
+                    "max": 3,
+                    "min": 3,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "n": {
+                    "value": 4,
+                    "max": 7,
+                    "min": 0,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "o": {
+                    "value": 0,
+                    "max": 3,
+                    "min": -3,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "p": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 0,
+                    "maxIncrement": 10,
+                    "variance": 10
+                },
+                "q": {
+                    "value": 60,
+                    "max": 100,
+                    "min": 30,
+                    "maxIncrement": 10,
+                    "variance": 20
+                },
+                "r": {
+                    "value": 300,
+                    "max": 310,
+                    "min": 290,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "s": {
+                    "value": 320,
+                    "max": 330,
+                    "min": 310,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "t": {
+                    "value": 340,
+                    "max": 350,
+                    "min": 330,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "u": {
+                    "value": 360,
+                    "max": 370,
+                    "min": 350,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "v": {
+                    "value": 380,
+                    "max": 390,
+                    "min": 370,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "x": {
+                    "value": 400,
+                    "max": 410,
+                    "min": 390,
+                    "maxIncrement": 3,
+                    "variance": 1
+                }
+            }
+        },
+        {
+            "product_code": "Torre Pellice - kit 6",
+            "localityID": 3,
+            "sensorID": 6,
+            "info": {
+                "a": {
+                    "value": 0,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "b": {
+                    "value": 20,
+                    "max": 30,
+                    "min": 10,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "c": {
+                    "value": 40,
+                    "max": 50,
+                    "min": 30,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "d": {
+                    "value": 60,
+                    "max": 70,
+                    "min": 50,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "e": {
+                    "value": 80,
+                    "max": 90,
+                    "min": 70,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "f": {
+                    "value": 100,
+                    "max": 110,
+                    "min": 90,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "g": {
+                    "value": 700,
+                    "max": 1300,
+                    "min": 300,
+                    "maxIncrement": 50,
+                    "variance": 100
+                },
+                "h": {
+                    "value": 18,
+                    "max": 30,
+                    "min": 5,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "i": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 2,
+                    "maxIncrement": 5,
+                    "variance": 5
+                },
+                "j": {
+                    "value": 0,
+                    "max": 0,
+                    "min": 0,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "k": {
+                    "value": 1,
+                    "max": 1,
+                    "min": 1,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "l": {
+                    "value": 2,
+                    "max": 2,
+                    "min": 2,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "m": {
+                    "value": 3,
+                    "max": 3,
+                    "min": 3,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "n": {
+                    "value": 4,
+                    "max": 7,
+                    "min": 0,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "o": {
+                    "value": 0,
+                    "max": 3,
+                    "min": -3,
+                    "maxIncrement": 2,
+                    "variance": 2
+                },
+                "p": {
+                    "value": 50,
+                    "max": 100,
+                    "min": 0,
+                    "maxIncrement": 10,
+                    "variance": 10
+                },
+                "q": {
+                    "value": 60,
+                    "max": 100,
+                    "min": 30,
+                    "maxIncrement": 10,
+                    "variance": 20
+                },
+                "r": {
+                    "value": 300,
+                    "max": 310,
+                    "min": 290,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "s": {
+                    "value": 320,
+                    "max": 330,
+                    "min": 310,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "t": {
+                    "value": 340,
+                    "max": 350,
+                    "min": 330,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "u": {
+                    "value": 360,
+                    "max": 370,
+                    "min": 350,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "v": {
+                    "value": 380,
+                    "max": 390,
+                    "min": 370,
+                    "maxIncrement": 3,
+                    "variance": 1
+                },
+                "x": {
+                    "value": 400,
+                    "max": 410,
+                    "min": 390,
+                    "maxIncrement": 3,
+                    "variance": 1
+                }
+            }
+        }
+    ]
+    
+}

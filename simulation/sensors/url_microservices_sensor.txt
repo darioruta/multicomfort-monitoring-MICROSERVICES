@@ -1,0 +1,10 @@
+url per microservizio file: microservice_sensor.py
+
+il microservizio vuole simulare N sensori diversi che generano misurazioni
+Ogni sensore puó essere caratterizzato diversamente all'interno del file settings.json
+
+I diversi sensori sono disponibili all'iindirizzo: 
+	127.0.0.1:8082/ -> ritorna solo se il microservizio é funzionante (OK) oppure no (ERRORE TROVATO)
+	127.0.0.1:8082/<sensorID>/sensor/data  -> questo ritorna un json con le misurazioni (valori) che il sensore generano
+	
+	- non ci sono altri microservizi disponibili

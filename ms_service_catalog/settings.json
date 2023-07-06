@@ -1,0 +1,8 @@
+{
+    "name" : "service_catalog",
+    "localhost": "127.0.0.1",
+    "port": 8081,
+    "path_services_json" : "./ms_service_catalog/services.json"
+    
+    
+}
